@@ -1,0 +1,31 @@
+Aluno: AARON FELIPE GRASSMANN / Autorizadora: MASTERCARD / Valor: 10.00
+Aluno: AARON PAPA DE MORAIS / Autorizadora: VISA / Valor: 20.00
+Aluno: ABNER GALLILEI MOREIRA BORGES / Autorizadora: CIELO / Valor: 30.00
+Aluno: ABRAAO DEYVID ALVES DE LIMA BARRETO / Autorizadora: AMEX / Valor: 40.00
+Aluno: ABRAHAO ANTONIO FIGUEREDO / Autorizadora: MASTERCARD / Valor: 50.00
+Aluno: ACACCIO PIMENTEL DA SILVA / Autorizadora: VISA / Valor: 60.00
+Aluno: ACHILES ROMERO RIEGO / Autorizadora: CIELO / Valor: 70.00
+Aluno: ACUCENA TIOSSO / Autorizadora: AMEX / Valor: 80.00
+Aluno: ADA LUANA BATISTA DA SILVA / Autorizadora: MASTERCARD / Valor: 90.00
+Aluno: ADAIL JOSE DE PAULA BARBOSA DE O VELOSO / Autorizadora: VISA / Valor: 100.00
+Aluno: AARON FELIPE GRASSMANN / Autorizadora: MASTERCARD / Valor: 200.00
+Aluno: AARON PAPA DE MORAIS / Autorizadora: VISA / Valor: 300.00
+Aluno: ABNER GALLILEI MOREIRA BORGES / Autorizadora: MASTERCARD / Valor: 400.00
+Aluno: ABRAAO DEYVID ALVES DE LIMA BARRETO / Autorizadora: AMEX / Valor: 500.00
+Aluno: ABRAHAO ANTONIO FIGUEREDO / Autorizadora: MASTERCARD / Valor: 600.00
+Aluno: ACACCIO PIMENTEL DA SILVA / Autorizadora: VISA / Valor: 700.00
+Aluno: ACHILES ROMERO RIEGO / Autorizadora: CIELO / Valor: 800.00
+Aluno: ACUCENA TIOSSO / Autorizadora: AMEX / Valor: 900.00
+Aluno: ADA LUANA BATISTA DA SILVA / Autorizadora: MASTERCARD / Valor: 1000.00
+Aluno: AARON FELIPE GRASSMANN / Autorizadora: VISA / Valor: 1100.00
+Aluno: AARON PAPA DE MORAIS / Autorizadora: VISA / Valor: 1200.00
+Aluno: ABNER GALLILEI MOREIRA BORGES / Autorizadora: MASTERCARD / Valor: 1300.12
+Aluno: ABRAAO DEYVID ALVES DE LIMA BARRETO / Autorizadora: AMEX / Valor: 1400.00
+Aluno: ABRAHAO ANTONIO FIGUEREDO / Autorizadora: MASTERCARD / Valor: 1500.99
+Aluno: ACACCIO PIMENTEL DA SILVA / Autorizadora: VISA / Valor: 1600.00
+Aluno: ACHILES ROMERO RIEGO / Autorizadora: CIELO / Valor: 1700.00
+Aluno: ACUCENA TIOSSO / Autorizadora: AMEX / Valor: 1800.00
+Aluno: AARON FELIPE GRASSMANN / Autorizadora: MASTERCARD / Valor: 1900.00
+Aluno: AARON PAPA DE MORAIS / Autorizadora: VISA / Valor: 2000.00
+Aluno: ABNER GALLILEI MOREIRA BORGES / Autorizadora: CIELO / Valor: 2100.00
+Aluno: ABRAAO DEYVID ALVES DE LIMA BARRETO / Autorizadora: AMEX / Valor: 2200.00

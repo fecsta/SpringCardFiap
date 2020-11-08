@@ -1,0 +1,17 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2
+  datasource:
+    url: jdbc:h2:D:\POS GRADUACAO\Spring\Trabalho\Spring36SCJBatch;DB_CLOSE_ON_EXIT=FALSE
+    username: fiap
+    password: fiap
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+
+file:
+  input: classpath:lista_alunos1.txt
+
