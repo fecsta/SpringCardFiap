@@ -36,21 +36,25 @@ A aplicação pode ser testada a partir da interface gráfica do Swagger, basta 
 
 ## Instruções basicas
 
-1-Antes de iniciarmos , favor editar o arquivo application.yml no campo URL com um endereço valido para criação do banco de dados H2, indicador abaixo:
+1-Antes de iniciarmos , favor editar o arquivo application.yml no campo URL com um endereço valido para criação do banco de dados H2, indicador abaixo: 
 
  <p align="center">
     <img alt="demo" src="github/datasource.PNG" width="100%">
  </p>
  
 2-Para iniciar o projeto Card, será necessário executar primeiro o Batch para criação da tabela e preenchimento inicial dos alunos.
+
 3-Exemplo de preenchimento para novo aluno:
+
         {
           "codigocurso": "123-12",
           "id": 0,
           "nome": "FIAP 36SCJ",
           "rm": 123456
         }
+        
 4-Exemplo de preenchimento para uma nova transação:
+
        {
          "aluno": {
            "codigoCurso": "string",
