@@ -36,7 +36,7 @@ A aplicação pode ser testada a partir da interface gráfica do Swagger, basta 
 
 ## Instruções basicas
 
-1-Antes de iniciarmos , favor editar o arquivo application.yml no campo URL com um endereço valido para criação do banco de dados H2, indicador abaixo: 
+1-Antes de iniciarmos , favor editar o arquivo application.yml no campo URL com um endereço valido para criação do banco de dados H2, indicado abaixo: 
 
  <p align="center">
     <img alt="demo" src="github/datasource.PNG" width="100%">
